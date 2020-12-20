@@ -9,6 +9,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1lsbaO1uZ9xIpcHrvFl7RHrDgFB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -97,6 +98,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="87" key="#Notifications" timestamp="1608498505410">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="87" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1608498505410" />
     <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1608414027024">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -117,13 +122,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="381" height="211" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1608409272603" />
-    <state x="301" y="60" key="SettingsEditor" timestamp="1608414032205">
+    <state x="301" y="60" key="SettingsEditor" timestamp="1608498491662">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1608414032205" />
-    <state x="209" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608413625913">
+    <state x="301" y="60" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1608498491662" />
+    <state x="209" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608498456810">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="209" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1608413625913" />
+    <state x="209" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1608498456810" />
   </component>
 </project>
